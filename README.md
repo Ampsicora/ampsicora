@@ -49,9 +49,9 @@ Here are some ideas to get you started:
  
 
 
-|  HTML | CSS  |  JS | VUE  | PHP  |  LARAVEL |
-|:-:|:-:|:-:|:-:|:-:|---|
-|  <code><img height="50" src="icons/html5.png"></code> |  <code><img height="50" src="icons/css3.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/vue.svg"></code> |  <code><img height="50" src="icons/php.png"></code> |  <code><img height="50" src="icons/laravel.ico"></code> |
+| PYTHON  | PHP  |  LARAVEL |
+|:-:|:-:|---|
+|  <code><img height="50" src="icons/python.svg"></code> |  <code><img height="50" src="icons/php.png"></code> |  <code><img height="50" src="icons/laravel.ico"></code> |
 
 
 
@@ -81,14 +81,12 @@ Here are some ideas to get you started:
 ## 👉 [My GitHub Stats](https://skyline.github.com/ampsicora/2023) 📊
 
 <p style="display: flex; justify-contect: space-between;">
-         <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="stats.gif" />
+         <a href="https://skyline.github.com/ampsicora/2023"><img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="stats.gif" /></a>
 </p>
 
 <hr>
 
 <p align="center">
-         <a href="https://skyline.github.com/ampsicora/2023">
-                  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-         </a>
+         <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
