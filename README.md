@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 | PYTHON  | PHP  |  LARAVEL |
 |:-:|:-:|---|
-|  <code><img height="50" src="icons/python.svg"></code> |  <code><img height="50" src="icons/php.png"></code> |  <code><img height="50" src="icons/laravel.ico"></code> |
+|  <code><img height="50" src="icons/python.png"></code> |  <code><img height="50" src="icons/php.png"></code> |  <code><img height="50" src="icons/laravel.ico"></code> |
 
 
 
