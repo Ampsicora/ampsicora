@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <br />
 
 <p style="display: flex; justify-contect: space-between;">
-         <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="programmer.gif" />
+         <a href="https://alessandro.sartori.io">
+                  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="programmer.gif" />
+         </a>
 </p>
 
          I am a Web Developer who is passionate about free software, Blockchain and Finance with skills in PHP, Python, 
