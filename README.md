@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-**Languages and Tools:**  
+## 🛠 **Languages and Tools:**  
 
 
  
@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 <!--
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical" />
@@ -77,16 +76,7 @@ Here are some ideas to get you started:
 | :------------: | :------------: |
 -->
 
-## My GitHub Stats
-<div>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikmanoar&theme=radical" alt="tarikmanoar" />
-<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
-</div>
-<br>
-
-
-![](https://activity-graph.herokuapp.com/graph?username=tarikmanoar&theme=redical)
-
+## 👉 [My GitHub Stats](https://skyline.github.com/ampsicora/2023) 📊
 
 <hr>
 
