@@ -49,42 +49,15 @@ Here are some ideas to get you started:
 
 
 
-## 🛠 **Languages and Tools:**  
+## 🛠 Languages and Tools:
 
-
- 
-
-
- 
-
+<div align="center">
 
 | PYTHON  | PHP  |  LARAVEL |
 |:-:|:-:|---|
 |  <code><a href="https://www.python.org/"><img height="50" src="icons/python.png"></a></code> |  <code><a href="https://www.php.net/"><img height="50" src="icons/php.png"></a></code> |  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |
-
-
-
-<!--
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical" />
-</a> 
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
-</a>
-
-
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=html&theme=radical" />
-</a>    
-<a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
-</a>
--->
-<!--
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical)](https://github.com/tarikmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/tarikmanoar "Manoar's Github") |
-| :------------: | :------------: |
--->
-
+</div>
+         
 <br />
 
 ## 📊 [My GitHub Stats](https://skyline.github.com/ampsicora/2023)
