@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-| PYTHON  | PHP  |  LARAVEL |
-|:-:|:-:|---|
-|  <code><a href="https://www.python.org/"><img height="50" src="icons/python.png"></a></code> |  <code><a href="https://www.php.net/"><img height="50" src="icons/php.png"></a></code> |  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |
+| HTML  | CSS | PYTHON  | PHP  |  LARAVEL |
+|:-:|:-:|:-:|:-:|---|
+|  <code><img height="50" src="icons/html5.png"></code> |  <code><img height="50" src="icons/css3.png"></code>  |  <code><a href="https://www.python.org/"><img height="50" src="icons/python.png"></a></code> |  <code><a href="https://www.php.net/"><img height="50" src="icons/php.png"></a></code> |  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |
 </div>
          
 <br />
