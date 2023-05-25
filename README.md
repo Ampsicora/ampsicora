@@ -76,11 +76,19 @@ Here are some ideas to get you started:
 | :------------: | :------------: |
 -->
 
+<br />
+
 ## 👉 [My GitHub Stats](https://skyline.github.com/ampsicora/2023) 📊
+
+<p style="display: flex; justify-contect: space-between;">
+         <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="stats.gif" />
+</p>
 
 <hr>
 
 <p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+         <a href="https://skyline.github.com/ampsicora/2023">
+                  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+         </a>
 </p>
 
