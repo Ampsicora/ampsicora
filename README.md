@@ -36,6 +36,13 @@ Here are some ideas to get you started:
          <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="programmer.gif" />
 </p>
 
+         I am a Web Developer who is passionate about free software, Blockchain and Finance with skills in PHP, Python, 
+         Technical Analysis and with an interest in learning more about Rust and Machine Learning.
+         
+         I like to write clear and quality code and contribute to the development of projects that can have a positive 
+         impact on people and make the world a better and an easier place!
+         
+         I’m always looking for new stimulating ideas to develop and challenges to try! 🤠
 
 
 
