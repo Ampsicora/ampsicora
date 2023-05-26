@@ -38,25 +38,30 @@ Here are some ideas to get you started:
          </a>
 </p>
 
-         I am a Web Developer who is passionate about free software, Blockchain and Finance with skills in PHP, Python, 
-         Technical Analysis and with an interest in learning more about Rust and Machine Learning.
-         
-         I like to write clear and quality code and contribute to the development of projects that can have a positive 
-         impact on people and make the world a better and an easier place!
-         
-         I’m always looking for new stimulating ideas to develop and challenges to try! 🤠
+I am a Web Developer who is passionate about free software, Blockchain and Finance with skills in PHP, Python, 
+Technical Analysis and with an interest in learning more about Rust and Machine Learning.
+
+I like to write clear and quality code and contribute to the development of projects that can have a positive 
+impact on people and make the world a better and an easier place!
+
+I’m always looking for new stimulating ideas to develop and challenges to try! 🤠
 
 
+<br />
 
 
 ## 🛠 Languages and Tools:
 
 <div align="center">
          
-|  HTML | CSS  |  PYTHON  |  PHP  |  LARAVEL |
-|:-:|:-:|:-:|:-:|---|
-|  <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="50" src="icons/html5.png"></a></code> |  <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="50" src="icons/css.png"></a></code>  |  <code><a href="https://www.python.org/"><img height="50" src="icons/python.png"></a></code>  |  <code><a href="https://www.php.net/"><img height="50" src="icons/php.png"></a></code> |  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |
-
+|  HTML | CSS  |  PYTHON  |  PHP  |
+|:-:|:-:|:-:|---|
+|  <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="50" src="icons/html5.png"></a></code> |  <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="50" src="icons/css.png"></a></code>  |  <code><a href="https://www.python.org/"><img height="50" src="icons/python.png"></a></code>  |  <code><a href="https://www.php.net/"><img height="50" src="icons/php.png"></a></code> |
+         
+|  LARAVEL |
+|---|
+|  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |
+         
 </div>
          
 <br />
