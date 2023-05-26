@@ -1,6 +1,6 @@
 
 <!--
-**tarikmanoar/tarikmanoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ampsicora/ampsicora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p style="display: flex; justify-contect: space-between;">
          <a href="https://alessandro.sartori.io">
-                  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="programmer.gif" />
+                  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="images/programmer.gif" />
          </a>
 </p>
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <p style="display: flex; justify-contect: space-between;">
          <a href="https://skyline.github.com/ampsicora/2023">
-                  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="stats.gif" />
+                  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="images/stats.gif" />
          </a>
 </p>
 
