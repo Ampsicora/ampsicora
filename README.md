@@ -54,13 +54,13 @@ I’m always looking for new stimulating ideas to develop and challenges to try!
 
 <div align="center">
          
-|  HTML | CSS  |  PYTHON  |  PHP  |
-|:-:|:-:|:-:|---|
-|  <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="50" src="icons/html5.png"></a></code> |  <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="50" src="icons/css.png"></a></code>  |  <code><a href="https://www.python.org/"><img height="50" src="icons/python.png"></a></code>  |  <code><a href="https://www.php.net/"><img height="50" src="icons/php.png"></a></code> |
+|  RUST | PYTHON  |  PHP  |
+|:-:|:-:|---|
+|  <code><a href="https://www.rust-lang.org/"><img height="50" src="icons/rust.png"></a></code>  |  <code><a href="https://www.python.org/"><img height="50" src="icons/python.png"></a></code>  |  <code><a href="https://www.php.net/"><img height="50" src="icons/php.png"></a></code> |
          
 |  LARAVEL |
-|---|
-|  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |
+|:-:|---|
+|  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |  <code><a href="https://pandas.pydata.org/"><img height="50" src="icons/pandas.png"></a></code> |  <code><a href="https://www.pola.rs/"><img height="50" src="icons/polars.png"></a></code> |
          
 </div>
          
