@@ -63,10 +63,3 @@ I’m always looking for new stimulating ideas to develop and challenges to try!
 | <code><a href="https://www.pola.rs/"><img height="50" src="icons/polars.png"></a></code>  |  <code><a href="https://pandas.pydata.org/"><img height="50" src="icons/pandas.png"></a></code> |  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |
          
 </div>
-
-<hr>
-
-<p align="center">
-         <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
