@@ -38,13 +38,15 @@ Here are some ideas to get you started:
          </a>
 </p>
 
-I am a Web Developer who is passionate about free software, Blockchain and Finance with skills in PHP, Python, 
-Technical Analysis and with an interest in learning more about Rust and Machine Learning.
+Enthusiastic software engineer and SIAT certified technical analyst with skills in Python, Rust, PHP, and technical analysis.
 
-I like to write clear and quality code and contribute to the development of projects that can have a positive 
-impact on people and make the world a better and an easier place!
+Passionate about open source, blockchain, finance, and interested in learning more about Rust and machine learning.
 
-I’m always looking for new stimulating ideas to develop and challenges to try! 🤠
+Enjoying writing clear and quality code that can have a positive impact on people and make the world a better and easier place.
+
+Always looking for new and challenging opportunities to learn and grow.
+Particularly interested in projects that are innovative and have the potential to make a real difference in the world!
+
 
 
 <br />
