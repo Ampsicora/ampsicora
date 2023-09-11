@@ -39,7 +39,7 @@ Here are some ideas to get you started:
          </a>
 </p>
 
-Enthusiastic software engineer and SIAT certified technical analyst with skills in Python, Rust, PHP, and technical analysis.
+✨ Enthusiastic software engineer and SIAT certified technical analyst with skills in Python, Rust, PHP, and technical analysis.
 
 Passionate about open source, blockchain, finance, and interested in learning more about Rust and machine learning.
 
