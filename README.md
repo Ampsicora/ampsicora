@@ -46,7 +46,7 @@ Passionate about open source, blockchain, finance, and interested in learning mo
 Enjoying writing clear and quality code that can have a positive impact on people and make the world a better and easier place.
 
 Always looking for new and challenging opportunities to learn and grow.
-Particularly interested in projects that are innovative and have the potential to make a real difference in the world!
+Particularly interested in projects that are innovative and have the potential to make a real difference in the world! 🤠
 
 
 
