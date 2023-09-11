@@ -63,16 +63,6 @@ I’m always looking for new stimulating ideas to develop and challenges to try!
 | <code><a href="https://www.pola.rs/"><img height="50" src="icons/polars.png"></a></code>  |  <code><a href="https://pandas.pydata.org/"><img height="50" src="icons/pandas.png"></a></code> |  <code><a href="https://laravel.com/"><img height="50" src="icons/laravel.ico"></a></code> |
          
 </div>
-         
-<br />
-
-## 📊 [My GitHub Stats](https://skyline.github.com/ampsicora/2023)
-
-<p style="display: flex; justify-contect: space-between;">
-         <a href="https://skyline.github.com/ampsicora/2023">
-                  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="images/stats.gif" />
-         </a>
-</p>
 
 <hr>
 
